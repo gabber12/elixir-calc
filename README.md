@@ -6,5 +6,6 @@
 
   * mix escript.build
   * USAGE: ./elixir_calc --fib num
+  * Tests can be run by mix test
 
 
