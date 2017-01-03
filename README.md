@@ -1,6 +1,7 @@
 # ElixirCalc
 
-**Sample Elixir cli application**
+**Sample Elixir cli application**  [![Ebert](https://ebertapp.io/github/gabber12/elixir-calc.svg)](https://ebertapp.io/github/gabber12/elixir-calc)
+
 
 ## Building
 
